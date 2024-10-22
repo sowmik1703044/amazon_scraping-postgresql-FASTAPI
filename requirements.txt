@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+transformers
+datasets
+beautifulsoup4
+requests
